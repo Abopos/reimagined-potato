@@ -605,6 +605,10 @@
 /obj/structure/ladder/id_linked,
 /turf/open/openspace,
 /area/space)
+"cF" = (
+/obj/structure/ladder/id_linked,
+/turf/open/floor/roof/sheet,
+/area/space)
 "cJ" = (
 /obj/docking_port/stationary/marine_dropship/lz1,
 /turf/open/floor/plating,
@@ -21120,7 +21124,7 @@ hz
 hz
 cw
 ae
-ae
+at
 hA
 hA
 hA
@@ -21328,7 +21332,7 @@ hz
 hz
 hz
 cw
-ae
+at
 ae
 ae
 ae
@@ -25920,7 +25924,7 @@ ae
 go
 ae
 ae
-ae
+at
 cw
 hz
 hz
@@ -26315,9 +26319,9 @@ de
 de
 de
 de
-cy
-cy
-cy
+de
+hx
+hx
 cw
 cw
 cw
@@ -26503,10 +26507,10 @@ ae
 ae
 ae
 de
+aX
 ae
 ae
-ae
-de
+cy
 ae
 ae
 ae
@@ -26695,7 +26699,7 @@ ae
 ae
 ae
 de
-ae
+aX
 ae
 ae
 de
@@ -26887,7 +26891,7 @@ ae
 ae
 ae
 de
-ae
+aX
 ae
 ae
 cy
@@ -70081,7 +70085,7 @@ hH
 hH
 hH
 bX
-bX
+cF
 hA
 hA
 hA
@@ -70289,7 +70293,7 @@ hH
 hH
 hH
 hH
-bX
+cF
 bX
 bX
 bX
@@ -74881,7 +74885,7 @@ bX
 bX
 bX
 bX
-bX
+cF
 hH
 hH
 hH
@@ -75464,7 +75468,7 @@ hH
 hH
 hH
 hH
-hH
+bX
 hH
 hH
 hH
@@ -75656,7 +75660,7 @@ hH
 hH
 hH
 hH
-hH
+bX
 hH
 hH
 hH
@@ -75848,7 +75852,7 @@ hH
 hH
 hH
 hH
-hH
+bX
 hH
 hH
 hH
